@@ -91,7 +91,7 @@ Our strategy validated a "Inverted-U" curve for generalization. Epoch 3 proved t
 ### Prerequisites
 
 * **Python**: >= 3.10
-* **PyTorch**: >= 2.1.0 
+* **PyTorch**: >= 2.1.0
 * **Transformers**: >= 4.45.0
 
 ### Installation
@@ -152,8 +152,8 @@ response = agent.run(history)
 **拾晓泽 (Shi Xiao Ze)**
 
 * **Lv Yuze**: Architecture Design & Algorithm Optimization
-* **Shi Yixi**: Data Engineering & Anti-Hallucination
-* **Liu Xiaorui**: System Deployment & Memory Optimization
+* **Shi Yixi（[shiyixi758-rgb](https://github.com/shiyixi758-rgb)）**: Data Engineering & Anti-Hallucination
+* **Liu Xiaorui（[Yonom1 (Xiaorui Liu)](https://github.com/Yonom1)）**: System Deployment & Memory Optimization
 
 ## 📄 License
 
